@@ -13,5 +13,5 @@ return base*altura
 }
 
 func _TrinaguloEq(base,altura float) float64{
-return (base=altura) / 2
+return (bas*altura) / 2
 }
