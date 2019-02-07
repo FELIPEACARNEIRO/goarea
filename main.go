@@ -8,10 +8,10 @@ func Circ(raio float64){
       return math.Pow(raio,2)*Pi
 }
 
-func Rect(base , altura gloat64) float64{
+func Rect(base , altura float64) float64{
       return base * altura
 }
 
-func _TrinaguloEq(base,altura float) float64{
-      return (bas*altura) / 2
+func _TrinaguloEq(base,altura float64) float64{
+      return (base * altura) / 2
 }
